@@ -2,18 +2,15 @@ import React from "react";
 import HomePageContent from "../components/HomePageContent";
 
 const HomePage = () => {
-
-        return (
-
-            <>
-    <header>
+  return (
+    <>
+      <header>
         <div>
-            <h1>Hello</h1>
+          <h1>Hello</h1>
         </div>
-    </header>
-    <HomePageContent/>
+      </header>
+      <HomePageContent />
     </>
-        );
-
-}
-export default HomePage
+  );
+};
+export default HomePage;

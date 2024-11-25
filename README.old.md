@@ -1,4 +1,5 @@
 # velazcopolo-react-boilerplate
+
 nvm (node version manager)
 
 nvm use lts
@@ -10,8 +11,7 @@ nvm use <version>
 
 npx create-react-app
 
-
-# explicacion 
+# explicacion
 
 Node => LTS
 
